@@ -277,11 +277,11 @@
 			]
 		},
 		"MyToken.sol": {
-			"keccak256": "0x15a4315ed82583d9549a18fdcb2be9ddd18338bcae779a7e49e3888bc5988a5f",
+			"keccak256": "0x3745fabaf4ac185abb7ed8fa0cdf357e4663441a89b3f1670b18ca4e1e9d8ec3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1a58a26b0825046b68cce2278a939427d5d59a4f81f872f56c90c02bca8cf5cd",
-				"dweb:/ipfs/QmdFcDk1G4TmXTEKyimztVkUhe4ubzyRxPb6yGiUVCPnhh"
+				"bzz-raw://1727102466c647924849b1c235fa4e5592ab24e24ecde4a406d2c9130fccdfcd",
+				"dweb:/ipfs/QmXSepHQS7f1Zvku1S3drnpJg8dhtZxZrbSpEfyUDVutvN"
 			]
 		}
 	},
